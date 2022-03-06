@@ -1,0 +1,75 @@
+Syllabus
+
+Prerequesites : Digital Design and C programming
+
+Links : 
+	https://www.cse.iitk.ac.in/pages/CS220.html
+	https://www.iitg.ac.in/asahu/cs222-2011/
+Lecture Notes : 
+	http://www.nitjsr.ac.in/course_assignment/CS104.pdf
+	https://ebooks.lpude.in/computer_application/bca/term_4/DCAP206_INTRODUCTION_TO_COMPUTER_ORGANIZATION_AND_ARCHITECTURE_DCAP502_COMPUTER_ORGANIZATION_AND_ARCHITECTURE.pdf
+	https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-826-principles-of-computer-systems-spring-2002/lecture-notes/
+	https://lecturenotes.in/subject/9/computer-organisation-and-architecture-coa
+
+
+Chapter 1 : Introduction to COA (Evolution of Computer Systems)
+	Basic Terminology
+		What is computer
+		What is program, Instructions and data
+		Designers and users prospective views
+	Data Format
+		Fixed point vs floating point
+		Signed, Unsigned and complement
+		Single and double precision
+	Computer Architecture
+		von neumann vs harvard
+	Computer and memory organization
+		byte and word addressable memory + questios
+	CPU pin structure
+	Memory interfacing (Memory System Design)
+	system bus design
+	Quantitative Principles of Computer Design
+
+Chapter 2 : Machine Instructions and Addressing Modes
+	Instruction Cycle and PSW
+		One, Two, Three and Four address instructions
+		Accumulator
+		Flags that are used
+	Addressing Modes
+	Instruction Set Architecture
+		Types of operations (Data Transfer, Manipulation and Transfer of control)
+	Interrupt and its types
+		Hardware and software types
+		Maskable and non-maskable
+		vector and non-vector
+	RISC / CISC Architecture [Reduced Instruction Set Computer]
+
+Chapter 3 : ALU, Datapaths and control units
+	Micro operation and Micro programs
+	Control unit design 
+		Hardware control unit and micro program control unit
+		performance analysis
+
+Chapter 4 : Instruction Set Pipelining (Most important)
+	Popelining
+	Instruction scheduling
+	Pipelining Hazards
+
+Chapter 5 : Memory organization
+	Hierarchial and sequential access memory organization
+	Design of Cache Memory Systems
+	Design of Arithmetic Unit
+	I/O Organization and Modes (Input-Output System Design)
+		Programmed I/O, Intrupt driven and DMA
+	Secondary Organization 
+		Hard Disc
+	Parallel Processing Architectures
+
+Functionality and Components are main parts, then look at problems
+
+Books and references
+	1.  D.A. Patterson and J.L. Hennessy, “Computer Architecture: A Quantitative Approach, 5/E”, Morgan Koffman, 2011.
+	2.  D.A. Patterson and J.L. Hennessy, “Computer Organization and Design: The Hardware/Software Interface, 5/E”, Elsevier India, 2016.
+	3.  W. Stallings, “Computer Organization and Architecture: Designing for Performance”, Pearson, 2015.
+	4.  C. Hamacher, Z. Vranesic and S. Zaky, “Computer Organization, 5/E”, McGraw Hill, 2011.
+	5. J.P. Hayes, “Computer Architecture and Organization, 3/E”, McGraw Hill, 1998.
